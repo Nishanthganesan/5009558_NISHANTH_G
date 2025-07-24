@@ -6,4 +6,4 @@ Agile Certificate
 
 GIT certificate 1
 
-![Simplelearn certifiacte](Git/Certificate/GIT-1.png)
+![Simplelearn certifiacte](GIT/GIT-1.png)
