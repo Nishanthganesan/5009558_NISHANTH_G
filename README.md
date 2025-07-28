@@ -7,3 +7,7 @@ Agile Certificate
 GIT certificate 1
 
 ![Simplelearn certifiacte](GIT/GIT-1.png)
+
+GIT certificate 2
+
+![Git_Basics](GIT/GIT-1.png)
