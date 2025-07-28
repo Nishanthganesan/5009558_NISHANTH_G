@@ -10,4 +10,4 @@ GIT certificate 1
 
 GIT certificate 2
 
-![Git_Basics](GIT/GIT-1.png)
+![Git_Basics]("GIT\Certificate\Git_Basics.png")
