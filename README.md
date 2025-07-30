@@ -60,9 +60,7 @@ Linux command 12
 
 ![Linux command 12](LINUX/Linux%20command%2012.png)
 
-Linux command 13
 
-![Linux command 13](LINUX/Linux%20command%2013.png)
 
 
 
