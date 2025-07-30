@@ -44,6 +44,25 @@ Linux command 8
 
 ![Linux command 8](LINUX/Linux%20command%208.png)
 
+Linux command 9
+
+![Linux command 9](LINUX/Linux%20command%209.png)
+
+Linux command 10
+
+![Linux command 10](LINUX/Linux%20command%2010.png)
+
+Linux command 11
+
+![Linux command 11](LINUX/Linux%20command%2011.png)
+
+Linux command 12
+
+![Linux command 12](LINUX/Linux%20command%2012.png)
+
+Linux command 13
+
+![Linux command 13](LINUX/Linux%20command%2013.png)
 
 
 
