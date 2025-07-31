@@ -58,7 +58,11 @@ Linux command 11
 
 Linux command 12
 
-![Linux command 12](LINUX/Linux%20Command%2012.png)
+![Linux command 12](LINUX/Linux%20command%20%2012.png)
+
+Introduction to C
+
+![Introduction to C](C/Introduction%20to%20C.jpg)
 
 
 
